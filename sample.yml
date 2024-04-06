@@ -5,5 +5,5 @@
           - name: i want to install apache2 in ansible node 1
             apt:
                     name: apache2
-                    state: present
+                    state: absent
                       
